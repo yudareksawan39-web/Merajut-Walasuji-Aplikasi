@@ -1,0 +1,9 @@
+{
+  "name": "Merajut Walasuji",
+  "short_name": "Walasuji",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "icons": []
+}
